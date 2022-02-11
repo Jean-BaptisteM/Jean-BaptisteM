@@ -34,7 +34,7 @@ Cette formation terminée, mon objectif est de trouver un stage, puis de continu
 </div>
 <div>
 
-![Symfony](https://img.shields.io/badge/Symfony-092E20?style=for-the-badge&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Lumen](https://img.shields.io/badge/Lumen-FF2D20?style=for-the-badge&logo=lumen&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-092E20?style=for-the-badge&logo=symfony&logoColor=white) ![Lumen](https://img.shields.io/badge/Lumen-FF2D20?style=for-the-badge&logo=lumen&logoColor=white)
 
 </div>
 <div>
