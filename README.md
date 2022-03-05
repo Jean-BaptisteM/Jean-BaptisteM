@@ -65,5 +65,5 @@ Cette formation terminée, mon objectif est de trouver un stage, puis de continu
 ## Me contacter
 <p>
 <a href="https://www.linkedin.com/in/jean-baptiste-moisy/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-baptiste-moisy/" alt="Jean-Baptiste-Moisy-linkedin"/></a>
- <a href="mailto:jbmoisy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="mailto:jbmoisy.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
