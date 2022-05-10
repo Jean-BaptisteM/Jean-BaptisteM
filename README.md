@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ![alt text](https://i.ibb.co/9yhF77X/Vintage-Machine-crire-Linkedin-Banni-re-1.png)
 
-## Présentation
-
 Bienvenue sur mon profil GitHub !
 
 Je m'appelle Jean-Baptiste, j'ai 33 ans et j'habite en plein centre de la France, entre Chateauroux et Montluçon.
