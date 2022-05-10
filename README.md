@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://i.ibb.co/9yhF77X/Vintage-Machine-crire-Linkedin-Banni-re-1.png)
+![banner](https://i.ibb.co/9yhF77X/Vintage-Machine-crire-Linkedin-Banni-re-1.png)
 
 Bienvenue sur mon profil GitHub !
 
@@ -25,6 +25,8 @@ Passionné d'informatique, j'ai commencé à coder en suivant des tutos un peu p
 Je possède de solides connaissances en Html / Css / Js / Php et je suis spécialisé sur le framework Symfony.
 
 🌱 Je suis actuellement en train d'apprendre le Python
+
+🌐 -> https://jb-moisy.herokuapp.com/ ![website](https://i.ibb.co/tzxc4x6/avatar-orange.png =30x)
 
 ## Me contacter
 
