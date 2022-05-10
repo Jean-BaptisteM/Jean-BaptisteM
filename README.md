@@ -26,7 +26,7 @@ Je possède de solides connaissances en Html / Css / Js / Php et je suis spécia
 
 🌱 Je suis actuellement en train d'apprendre le Python
 
-🌐 https://jb-moisy.herokuapp.com/ <img src="https://i.ibb.co/tzxc4x6/avatar-orange.png =30x" />
+🌐 https://jb-moisy.herokuapp.com/ <img src="https://i.ibb.co/tzxc4x6/avatar-orange.png width="30"" />
 
 ## Me contacter
 
