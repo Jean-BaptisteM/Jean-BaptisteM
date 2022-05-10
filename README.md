@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Jean-BaptisteM&color=1a1b27)
-
 <!--
 **Jean-BaptisteM/Jean-BaptisteM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,9 +34,9 @@ Je possède de solides connaissances en Html / Css / Js / Php et je suis spécia
 <a href="https://twitter.com/JeanBabMsy" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 
 ## Technologies
-
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+
+![PHP](style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white) 
@@ -63,4 +61,5 @@ Je possède de solides connaissances en Html / Css / Js / Php et je suis spécia
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+![](https://komarev.com/ghpvc/?username=Jean-BaptisteM&color=1a1b27)
 
