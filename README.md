@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there  <img src="https://i.ibb.co/tzxc4x6/avatar-orange.png" width="40" />
 
 <!--
 **Jean-BaptisteM/Jean-BaptisteM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Je possède de solides connaissances en Html / Css / Js / Php et je suis spécia
 
 🌐 https://jb-moisy.herokuapp.com/ 
 
-## Me contacter <img src="https://i.ibb.co/tzxc4x6/avatar-orange.png" width="30" />
+## Me contacter
 
 <a href="mailto:jbmoisy.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jean-baptiste-moisy/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-baptiste-moisy/" alt="Jean-Baptiste-Moisy-linkedin"/></a>
