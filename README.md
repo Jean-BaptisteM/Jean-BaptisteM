@@ -1,4 +1,4 @@
-# Hi there  <img src="https://i.ibb.co/tzxc4x6/avatar-orange.png" width="40" />
+# <img src="https://i.ibb.co/tzxc4x6/avatar-orange.png" width="40" /> Hi there  
 
 <!--
 **Jean-BaptisteM/Jean-BaptisteM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
