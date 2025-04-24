@@ -22,7 +22,7 @@ Je m'appelle Jean-Baptiste, j'ai 33 ans et j'habite en plein centre de la France
 
 Passionné d'informatique, j'ai commencé à coder en suivant des tutos un peu partout sur internet. Voulant parfaire mes connaissances afin d'en faire mon métier, j'ai décidé d'entreprendre une formation de Développeur Web et Web Mobile au sein de l'école O'clock.
 
-Je possède de solides connaissances en Html / Css / Js / Php et je suis spécialisé sur le framework Symfony.
+Html / Css / Js / Php / Python / C#
 
 🌱 Je suis actuellement en train d'apprendre le Python
 
