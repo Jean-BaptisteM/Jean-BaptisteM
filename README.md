@@ -26,8 +26,6 @@ Je développe surtout en **Delphi**, avec **VCL, FireDAC et Oracle**, mais aussi
 
 Je m’intéresse également à l’**architecture logicielle**, aux **API**, aux **bases de données**, à l’**IA et aux RAG**, ainsi qu’à tout ce qui touche à la conception et à l’amélioration de logiciels existants.
 
-J’aime comprendre les problèmes, trouver des solutions simples et écrire du code propre et maintenable.
-
 ## Me contacter
 
 
