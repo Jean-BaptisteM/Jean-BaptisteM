@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner](https://i.ibb.co/9yhF77X/Vintage-Machine-crire-Linkedin-Banni-re-1.png)
+![banner](assets/Banner.png)
 
 Bienvenue sur mon profil GitHub !
 
-# Salut, moi c’est Jean-Baptiste 👋
+## Salut, moi c’est Jean-Baptiste 👋
 
 Développeur passionné, je travaille principalement sur des applications métier et des solutions WMS.
 
