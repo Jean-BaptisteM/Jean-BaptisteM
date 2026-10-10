@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/tzxc4x6/avatar-orange.png" width="40" /> Hi there  
+# <img src="https://github.com/Jean-BaptisteM.png" width="40" style="border-radius: 50%;" alt="Jean-Baptiste" /> Hi there  
 
 <!--
 **Jean-BaptisteM/Jean-BaptisteM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,17 +30,9 @@ J’aime comprendre les problèmes, trouver des solutions simples et écrire du 
 
 ## Me contacter
 
-<p align="left">
-  <a href="mailto:jbmoisy.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jean-baptiste-moisy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/JeanBabMsy">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jbmoisy.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-baptiste-moisy/)
 
 ## Technologies
 
